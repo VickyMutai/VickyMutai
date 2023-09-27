@@ -1,4 +1,13 @@
-### Hi there 👋 I am Victoria Mutai
+### Hi there 👋 My name is Victoria Mutai😊
+- 🔭 I’m currently working on a web platform for learning swahili.
+- 🌱 I’m currently learning Advanced Data Structures and Algorithms
+- 👯 I’m looking to collaborate on Web and Automation Projects
+- 💬 Ask me about Python, AngularJS and Firebase
+- 📫 How to reach me:
+      - Email: vicky.mutai96@gmail.com
+      - Contact: +254716889165
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I spend my weekends sleeping or out with my son
 
 <!--
 **VickyMutai/VickyMutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
