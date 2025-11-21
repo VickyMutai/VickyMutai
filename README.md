@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on a web platform for learning swahili.
 - 🌱 I’m currently learning Advanced Data Structures and Algorithms
 - 👯 I’m looking to collaborate on Web and Automation Projects
-- 💬 Ask me about Python, AngularJS and Firebase
+- 💬 Ask me about Python, AngularJS, React and Firebase
 - 📫 How to reach me:
       - Email: vicky.mutai96@gmail.com
       - Contact: +254716889165
